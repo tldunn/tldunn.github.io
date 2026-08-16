@@ -1,7 +1,7 @@
 # tldunn.github.io
 Portfolio showcasing various projects for graphics, animation, and rendering
 
-**Bounding Boxes** <\br>
+**Bounding Boxes**  
 The bounding boxes video showcases building bounding boxes and characters interacting with them. This video specifically shows the case of a character colliding with the bounding box of a car as well as colliding with the bounding box of a building. 
 
 **Character Behavior** <\br>
